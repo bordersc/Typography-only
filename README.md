@@ -8,3 +8,12 @@ Starter (boilerplate) for all future projects.
 * Don't start with nothing
 * Common boilerplate for web projects
 * I am a human being who makes mistakes
+
+Typography only for YOUR TOPIC
+
+A web project to experiment with CSS Typography.
+
+##CSS concepts
+* Typography
+* Box Model
+* CSS Variables
